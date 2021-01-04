@@ -1,0 +1,76 @@
+/* Start Header */
+#navbar {
+  padding-bottom: 20px;
+}
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: 1px dotted #444;
+}
+
+/* Start Show-Case */
+#showcase {
+  height: 100%;
+}
+
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+/* Start Home Infos */
+
+#home-infos {
+  height: 550px;
+}
+
+#home-infos .img-infos {
+  display: none;
+}
+
+#home-infos .text-infos {
+  float: none;
+  width: 100%;
+}
+
+/* Start Features */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* Css About ========================================================================================== */
+
+/* Start about infos */
+#about-infos .left-infos,
+#about-infos .right-infos {
+  float: none;
+  width: 100%;
+}
+
+.l-heading {
+  text-align: center;
+}
+#about-infos .right-infos {
+  margin-top: 30px;
+}
+#about-infos .right-infos img {
+  width: 100%;
+}
+
+/* Css Contact ========================================================================================== */
+/* Css Contact */
+#contact-infos .box {
+  border-bottom: 1px dotted rgb(199, 175, 175);
+}
