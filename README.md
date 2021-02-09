@@ -1,4 +1,4 @@
-# Hotel-Responsive-Website-For-Mobile-Using-Float
+# Hotel-Responsive-Website-For-Mobile-Using-Float.
 
 AR-Hotel => 
 
