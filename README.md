@@ -1,2 +1,7 @@
 # Hotel-Responsive-Website-For-Mobile-Using-Float
-html/css application using float to make a responsi ve website form mobile (media query)
+
+AR-Hotel => 
+
+Html / Css Application Using Float To Make A Responsive Website For Mobile (Media Query)
+
+Click Here : https://riahiachraf.github.io/Hotel-Responsive-Website-For-Mobile-Using-Float/
